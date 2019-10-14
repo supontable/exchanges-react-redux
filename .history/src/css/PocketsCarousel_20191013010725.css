@@ -1,0 +1,16 @@
+.Carousel {
+    width: 100%;
+    height: 180px;
+    background-color: darkgrey;
+    position: relative;
+}
+.Carousel__to {
+    background-color: lightgray;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+  
